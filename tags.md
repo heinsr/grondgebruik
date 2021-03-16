@@ -75,7 +75,7 @@ Aanvullend;
 # Ongebouwd
 
 * `landuse=meadow` voor **weiland**
-  - `landuse=grass` voor functioneel gras, zoals een uitweg
+  - `landuse=grass` voor functioneel gras, zoals een uitweg, bleek(weide) of droogveld
   - `landuse=village_green` voor centrale parken in een stad
 * `landuse=farmland` voor **bouwland**
     - `crop=*` om het gewas mee aan te geven indien gekend, vb `aardappel` of `tabak`
@@ -87,10 +87,10 @@ Aanvullend;
     - `landuse=industrial` voor industrie
 * `landuse=cemetery` voor **begraafplaats**
 * `landuse=orchard` voor **boomgaard**
-* `landuse=plant_nursery` voor een planten-**kwekerij**
+* `landuse=plant_nursery` voor een planten-**kwekerij** / bloemisterij
 * `leisure=garden` voor siertuin / **terrein tot vermaak**
     - `leisure=pitch` voor sportvelden, veelal kolf
-* `landuse=forest` voor **bos**
+* `landuse=forest` voor **bos** en hakhout
     - `leaf_type=needleleaved` voor naaldbos
 * `landuse=construction` voor **dijken** en kaden
 * `landuse=landfill` voor **vuilnis**-stort-plekken
