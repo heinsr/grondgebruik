@@ -30,7 +30,7 @@ Allen getagged met de `waterway`-key;
 
 # Plaatsen
 
-Allen getaagged met de `place`-key, in de regel ook voorzien van een `name`-tag;
+Allen getagged met de `place`-key, in de regel ook voorzien van een `name`-tag;
 * `city` voor een grote stad
 * `town` voor een kleiner stadje
 * `village` voor een dorp
@@ -105,7 +105,7 @@ Aanvullend;
     - `wetland=wet_meadow` voor **hooiland**
     - `wetland=reedbed` voor **riet(land)**
     - `wetland=bog` voor **veen**
-    - `wetland=marsch` voor **moeras**
+    - `wetland=marsh` voor **moeras**
 
 
 
